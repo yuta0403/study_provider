@@ -1,7 +1,8 @@
 # study_provider
 
 TODOアプリを通してProviderを学ぶ
-
+※以下をアレンジ
+https://github.com/flutteruniv/flutter_provider_samples
 
 ## 宿題
 
