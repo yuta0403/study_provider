@@ -1,6 +1,16 @@
 # study_provider
 
-A new Flutter project.
+TODOアプリを通してProviderを学ぶ
+
+
+## 宿題
+
+カウンターの色をランダムで変更できるようにしてみましょう。
+
+### 要件
+- Colorの状態を管理するColorModelを作成する
+- context.read、context.watchを適切に使って効率の良い再描画を行う
+- できたらselectを使ってみる
 
 ## Getting Started
 
